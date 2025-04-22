@@ -1,5 +1,3 @@
-Aqui está o `README.md` revisado e personalizado com base nas sugestões fornecidas:
-
 ```markdown
 # Alubank 🚀  
 Gerencie suas finanças de forma simples e moderna!  
