@@ -26,19 +26,15 @@ class Header extends StatelessWidget {
                 Text.rich(
                   TextSpan(
                     text: '\$ ',
-                    style: TextStyle(fontSize: 16.0),
                     children: <TextSpan>[
                       TextSpan(
                         text: '1000.00',
-                        style: TextStyle(
-                          fontSize: 28.0,
-                          fontWeight: FontWeight.bold,
-                        ),
+                        style: Theme.of(context).textTheme.bodyLarge,
                       ),
                     ],
                   ),
                 ),
-                Text('Balanço Disponível', style: TextStyle(fontSize: 16.0)),
+                Text('Balanço Disponível'),
               ],
             ),
             Icon(Icons.account_circle, size: 42.0),
