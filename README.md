@@ -34,3 +34,9 @@ Antes de começar, você precisa ter as seguintes ferramentas instaladas:
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/DantasMatheus/alubank.git
+
+## Autor
+Desenvolvido por [Matheus Dantas](https://github.com/DantasMatheus).
+
+## Licença
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
