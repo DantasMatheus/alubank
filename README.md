@@ -1,7 +1,11 @@
+Aqui está o `README.md` revisado e personalizado com base nas sugestões fornecidas:
+
+```markdown
 # Alubank 🚀  
+Gerencie suas finanças de forma simples e moderna!  
 <img src="banner.png" alt="Alubank Banner" />
 
-### Um aplicativo moderno de banco criado com Flutter.
+### Um aplicativo de banco digital criado com Flutter para facilitar a vida financeira dos usuários.
 
 ---
 
@@ -11,6 +15,8 @@
 - [Como Rodar a Aplicação](#-como-rodar-a-aplicação)  
 - [Como Executar os Testes](#-como-executar-os-testes)  
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)  
+- [Roadmap](#-roadmap)  
+- [Como Contribuir](#-como-contribuir)  
 - [Autor](#-autor)  
 - [Licença](#-licença)  
 
@@ -34,13 +40,70 @@ Antes de começar, você precisa ter as seguintes ferramentas instaladas:
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/DantasMatheus/alubank.git
+   ```
+2. Navegue até o diretório do projeto:  
+   ```bash
+   cd alubank
+   ```
+3. Instale as dependências do Flutter:  
+   ```bash
+   flutter pub get
+   ```
+4. Execute o projeto:  
+   ```bash
+   flutter run
+   ```
 
 ---
 
-## Autor
+## 🛠 Tecnologias Utilizadas  
+- Flutter  
+- Dart  
+- Swift  
+- C++  
+- CMake  
+
+---
+
+## 🚀 Roadmap  
+- [ ] Implementar autenticação de usuários.  
+- [ ] Adicionar integração com APIs de bancos.  
+- [ ] Criar dashboard para análise de despesas.  
+- [ ] Melhorar a responsividade do design.  
+- [ ] Adicionar suporte a múltiplos idiomas.  
+
+---
+
+## 🤝 Como Contribuir  
+1. Faça um fork do projeto.  
+2. Crie uma branch para sua funcionalidade:  
+   ```bash
+   git checkout -b minha-feature
+   ```
+3. Commit suas alterações:  
+   ```bash
+   git commit -m 'Adiciona nova funcionalidade'
+   ```
+4. Envie para o repositório remoto:  
+   ```bash
+   git push origin minha-feature
+   ```
+5. Abra um Pull Request.
+
+---
+
+## Autor  
 Desenvolvido por [Matheus Dantas](https://github.com/DantasMatheus).
 
 ---
 
-## Licença
+## Licença  
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+![Flutter Version](https://img.shields.io/badge/Flutter-3.x-blue)  
+![License](https://img.shields.io/badge/license-MIT-green)  
+```
+
+Esse modelo inclui todas as sugestões organizadas no mesmo formato do arquivo original, mas com melhorias e personalizações. Você pode copiá-lo e substituir o atual `README.md` no repositório. Se precisar de mais ajuda, é só pedir!
