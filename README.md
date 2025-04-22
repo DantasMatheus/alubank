@@ -89,12 +89,12 @@ Antes de começar, você precisa ter as seguintes ferramentas instaladas:
 
 ---
 
-## Autor  
+## 👤 Autor  
 Desenvolvido por [Matheus Dantas](https://github.com/DantasMatheus).
 
 ---
 
-## Licença  
+## 📜 Licença  
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
@@ -102,4 +102,3 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ![Flutter Version](https://img.shields.io/badge/Flutter-3.x-blue)  
 ![License](https://img.shields.io/badge/license-MIT-green)  
 ```
-
