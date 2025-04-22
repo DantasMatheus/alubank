@@ -99,6 +99,6 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ---
 
-![Flutter Version](https://img.shields.io/badge/Flutter-3.x-blue)  
+![Flutter Version](https://img.shields.io/badge/Flutter-3.29.0-blue)  
 ![License](https://img.shields.io/badge/license-MIT-green)  
 ```
