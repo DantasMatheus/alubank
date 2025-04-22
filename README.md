@@ -1,4 +1,3 @@
-```markdown
 # Alubank 🚀  
 Gerencie suas finanças de forma simples e moderna!  
 <img src="banner.png" alt="Alubank Banner" />
