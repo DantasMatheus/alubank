@@ -104,4 +104,3 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ![License](https://img.shields.io/badge/license-MIT-green)  
 ```
 
-Esse modelo inclui todas as sugestões organizadas no mesmo formato do arquivo original, mas com melhorias e personalizações. Você pode copiá-lo e substituir o atual `README.md` no repositório. Se precisar de mais ajuda, é só pedir!
