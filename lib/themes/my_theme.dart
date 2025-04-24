@@ -8,9 +8,11 @@ ThemeData myTheme = ThemeData(
     color: ThemeColors.primaryColor,
   ),
   brightness: Brightness.dark,
+  fontFamily: 'Raleway',
   textTheme: TextTheme(
     bodyMedium: TextStyle(fontSize: 16.0),
     bodyLarge: TextStyle(fontSize: 28.0, fontWeight: FontWeight.bold),
+    titleMedium: TextStyle(fontSize: 20.0, fontWeight: FontWeight.normal),
   ),
   textButtonTheme: TextButtonThemeData(
     style: TextButton.styleFrom(
